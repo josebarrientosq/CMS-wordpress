@@ -1,67 +1,58 @@
-<h1>SUPERMERCADOS MAX</h1>
-Un nuevo concepto en compras
-
-<a role="button" href="#">
-OFERTAS SEMANALES
-</a>
-<a target="_blank" rel="noopener">
-Facebook
-</a>
-<a target="_blank" rel="noopener">
-Twitter
-</a>
-<a target="_blank" rel="noopener">
-Google-plus
-</a>
-<h2>Ofertas Diarias</h2>
-Aprovecha nuestras ofertas de hoy
-
-[recent_products per_page="4" columns="4"]
-<h2>Opiniones de nuestros clientes</h2>
-Que dicen nuestros clientes opinan acerca de su experiencia en nuestros supermercados
-
-Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
-<img src="http://localhost/wordpress/wp-content/uploads/2018/06/ava4.png" sizes="(max-width: 400px) 100vw, 400px" srcset="http://localhost/wordpress/wp-content/uploads/2018/06/ava4.png 400w, http://localhost/wordpress/wp-content/uploads/2018/06/ava4-150x150.png 150w, http://localhost/wordpress/wp-content/uploads/2018/06/ava4-300x300.png 300w, http://localhost/wordpress/wp-content/uploads/2018/06/ava4-100x100.png 100w" alt="" width="400" height="400" />
-Adam Sendler
-Designer
-Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
-<img src="http://localhost/wordpress/wp-content/uploads/2018/06/y9.png" sizes="(max-width: 400px) 100vw, 400px" srcset="http://localhost/wordpress/wp-content/uploads/2018/06/y9.png 400w, http://localhost/wordpress/wp-content/uploads/2018/06/y9-150x150.png 150w, http://localhost/wordpress/wp-content/uploads/2018/06/y9-300x300.png 300w, http://localhost/wordpress/wp-content/uploads/2018/06/y9-100x100.png 100w" alt="" width="400" height="400" />
-Mila Kunis
-Manager
-Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
-<img src="http://localhost/wordpress/wp-content/uploads/2018/06/ava2.png" sizes="(max-width: 400px) 100vw, 400px" srcset="http://localhost/wordpress/wp-content/uploads/2018/06/ava2.png 400w, http://localhost/wordpress/wp-content/uploads/2018/06/ava2-150x150.png 150w, http://localhost/wordpress/wp-content/uploads/2018/06/ava2-300x300.png 300w, http://localhost/wordpress/wp-content/uploads/2018/06/ava2-100x100.png 100w" alt="" width="400" height="400" />
-Mike Stuart
-Support
-<h4>TE INVITAMOS A CONOCER MAS</h4>
-<a role="button" href="#">
-oferta del mes
-</a>
-<h2>021 862 345</h2>
-<h2>Nuestras Tiendas</h2>
-<h2>info@supermax</h2>
-<h2>Nosotros</h2>
-Supermercados MAX es una cadena de tiendas ubicados en la ciudad de
-
-<iframe src="https://maps.google.com/maps?q=London%20Eye%2C%20London%2C%20United%20Kingdom&amp;t=m&amp;z=10&amp;output=embed&amp;iwloc=near" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" aria-label="London Eye, London, United Kingdom"></iframe>
-<h6>Location</h6>
-709 Honey Creek Dr.
-New York, NY 10028
-<h6>Horarios</h6>
-10:00 AM - 22.00 PM
-Lunes - Domingo
-<h6>Contactanos</h6>
-Phone: 1 800 755 60 20
-Email: info@tiendamax.com
-
-<a target="_blank" rel="noopener">
-Facebook
-</a>
-<a target="_blank" rel="noopener">
-Twitter
-</a>
-<a target="_blank" rel="noopener">
-Google-plus
-</a>
-<a target="_blank" rel="noopener">
-Wordpress
-</a>
+<h1>SUPERMERCADOS MAX</h1>		
+		<p>Un nuevo concepto en compras</p>		
+			<a href="/categoria-producto/alimentos/bebidas/" role="button">
+						OFERTAS SEMANALES
+					</a>
+							<a href="" target="_blank">
+					Facebook
+				</a>
+							<a href="" target="_blank">
+					Twitter
+				</a>
+							<a href="" target="_blank">
+					Google-plus
+				</a>
+			<h2>Ofertas Diarias</h2>		
+		<p>Aprovecha nuestras ofertas de hoy</p>[recent_products per_page="4" columns="4"]		
+			<h2>Opiniones de nuestros clientes</h2>		
+		<p>Que dicen nuestros clientes opinan acerca de su experiencia en nuestros supermercados</p>		
+							Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+							<img width="400" height="400" src="http://35.225.170.21/wp-content/uploads/2018/06/ava4.png" alt="" srcset="http://35.225.170.21/wp-content/uploads/2018/06/ava4.png 400w, http://35.225.170.21/wp-content/uploads/2018/06/ava4-150x150.png 150w, http://35.225.170.21/wp-content/uploads/2018/06/ava4-300x300.png 300w, http://35.225.170.21/wp-content/uploads/2018/06/ava4-100x100.png 100w" sizes="(max-width: 400px) 100vw, 400px" />						
+													Adam Sendler
+																			Designer
+							Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+							<img width="400" height="400" src="http://35.225.170.21/wp-content/uploads/2018/06/y9.png" alt="" srcset="http://35.225.170.21/wp-content/uploads/2018/06/y9.png 400w, http://35.225.170.21/wp-content/uploads/2018/06/y9-150x150.png 150w, http://35.225.170.21/wp-content/uploads/2018/06/y9-300x300.png 300w, http://35.225.170.21/wp-content/uploads/2018/06/y9-100x100.png 100w" sizes="(max-width: 400px) 100vw, 400px" />						
+													Mila Kunis
+																			Manager
+							Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+							<img width="400" height="400" src="http://35.225.170.21/wp-content/uploads/2018/06/ava2.png" alt="" srcset="http://35.225.170.21/wp-content/uploads/2018/06/ava2.png 400w, http://35.225.170.21/wp-content/uploads/2018/06/ava2-150x150.png 150w, http://35.225.170.21/wp-content/uploads/2018/06/ava2-300x300.png 300w, http://35.225.170.21/wp-content/uploads/2018/06/ava2-100x100.png 100w" sizes="(max-width: 400px) 100vw, 400px" />						
+													Mike Stuart
+																			Support
+			<h4>TE INVITAMOS A CONOCER MAS</h4>		
+			<a href="http://35.225.170.21/categoria-producto/alimentos/bebidas/" role="button">
+						oferta del mes
+					</a>
+			<h2>021 862 345</h2>		
+			<h2>Nuestras Tiendas</h2>		
+			<h2>info@supermax</h2>		
+			<h2>Nosotros</h2>		
+		<p>Supermercados MAX es una cadena de tiendas ubicados en la ciudad de </p>[wpgmza id="1"]		
+			<h6>Locacion</h6>		
+		Plaza San Carlos de Bariloche Shopping Patagonia
+Cerro Catedral		
+			<h6>Horarios</h6>		
+		<p>10:00 AM - 22.00 PM<br />Lunes - Domingo</p>		
+			<h6>Contactanos</h6>		
+		<p>Phone: 1 800 755 60 20<br />Email: info@tiendamax.com</p>		
+							<a href="" target="_blank">
+					Facebook
+				</a>
+							<a href="" target="_blank">
+					Twitter
+				</a>
+							<a href="" target="_blank">
+					Google-plus
+				</a>
+							<a href="" target="_blank">
+					Wordpress
+				</a>
